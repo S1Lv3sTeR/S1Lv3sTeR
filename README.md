@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @S1Lv3sTeR From IRAN [ Woman , Life , Freedom ]
-- 👀 I'm interested in Python , Photoshop ...
-- 🌱 I'm currently learning to Python , css , html , and More ...
+Felan Ke Hich - 
 
 
 <!---
